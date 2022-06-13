@@ -32,11 +32,11 @@
     - LPF, HPF, Complementary Filter, Kalman Filter, ...
 - Mobile Robot
     - Dead Reckoning, Feedback Control, ...
-- Perception: 3D Object Detection(YOLOv5+DBSCAN)
+- Perception: [3D Object Detection(YOLOv5+DBSCAN)](https://github.com/parkdg44/Platform_ROS2_ws/blob/main/workspaces/self_drive_ws/src/vision/detection_2d/detection_2d/yolov5/detect_yolo.py#L382)
 
 ### ROS 1 & 2
 - Workspace 구성 및 배포 경험
-    - 자율 청소 로봇, 실내 자율 주행 AGV 프로젝트 등
+    - [자율 청소 로봇](https://github.com/parkdg44/Platform_ROS2_ws), [실내 자율 주행 AGV 프로젝트](https://github.com/parkdg44/NANOLAB/tree/master/AGV/catkin_ws) 등
 - Nav 1 / 2 활용 경험
     - Laser Scan, Odometry 등 패키지 활용에 필요한 각종 데이터 Pipelining
     - 로봇에 적합한 Behavior Tree 작성 경험
@@ -45,7 +45,7 @@
 
 ## 전공 관련 프로젝트 이력
 
-- 실내 자율주행 청소 로봇 시스템 개발
+- [실내 자율주행 청소 로봇 시스템 개발](https://github.com/parkdg44/Platform_ROS2_ws)
     - 설명: 기존의 실내 청소 로봇의 한계를 극복하기 위해 자율주행 및 청소, 보행자 
 인식, GUI 인터페이스 등을 탑재한 지능형 자율 청소 로봇 시스템을 개발함.
     - 주관: (주)제우스로보틱스
@@ -68,7 +68,7 @@
         - 특수한 로봇 플랫폼(매카넘 휠)의 시스템 모델링 경험 습득
         - 딥러닝 모델 IO Pipelining 경험 습득
 
-- ROS 기반 실내 자율 주행 AGV 개발
+- [ROS 기반 실내 자율 주행 AGV 개발](https://github.com/parkdg44/NANOLAB/tree/master/AGV/catkin_ws)
     - 설명: 학사 캡스톤 디자인으로 진행했던 프로젝트로 물류 센터 무인화를 위해 
 상자 분류, 목표 설정, 자율주행 기능을 수행하는 AGV를 개발함.
     - 주관: 서울과학기술대학교
