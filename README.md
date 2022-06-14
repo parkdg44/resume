@@ -6,6 +6,7 @@
 
 - 이름: 박동규 
 - 전공: Mobile Robot Control Engineer
+- 메일: parkdg44@naver.com
 
 ## 학력
 - 서울과학기술대학교 기계설계로봇공학과 석사 과정 (2020.03 ~ 2022.02)
