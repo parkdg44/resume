@@ -5,7 +5,7 @@
 <img src="images/박동규.jpg" width="200" height="280"/>
 
 - 이름: 박동규 
-- 전공: Mobile Robot Control Engineer
+- 전공: Mobile Robot Navigation
 - 메일: parkdg44@naver.com
 
 ## 학력
