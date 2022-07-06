@@ -18,7 +18,7 @@
 ### Python
 - Pytorch: Model Inference / Pipelining
 - FMPy: FMI 활용 경험  \
-  ** FMI(Functional Mock-up Interface) \
+    - FMI(Functional Mock-up Interface) \
     : 시뮬레이션 툴 간 협업을 위해 제안된 동적 시스템 모델 인터페이스.
 - opencv: 영상 처리 활용 경험 
     - Morphological Transformations, ...
