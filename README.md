@@ -7,6 +7,7 @@
 - 이름: 박동규 
 - 전공: Mobile Robot Navigation
 - 메일: parkdg44@naver.com
+- 깃허브 링크: parkdg44@naver.com
 
 ## 학력
 - 서울과학기술대학교 기계설계로봇공학과 석사 과정 (2020.03 ~ 2022.02)
@@ -33,7 +34,7 @@
     - LPF, HPF, Complementary Filter, Kalman Filter, ...
 - Mobile Robot
     - Dead Reckoning, Feedback Control, ...
-- Perception: [3D Object Detection(YOLOv5+DBSCAN)](https://github.com/parkdg44/Platform_ROS2_ws/blob/main/workspaces/self_drive_ws/src/vision/detection_2d/detection_2d/yolov5/detect_yolo.py#L382)
+- Perception: [3D Object Detection(YOLOv5+DBSCAN)](https://github.com/parkdg44/Platform_ROS2_ws/blob/main/workspaces/self_drive_ws/src/vision/detection_2d/detection_2d)
 
 ### ROS 1 & 2
 - Workspace 구성 및 배포 경험
@@ -42,7 +43,7 @@
     - Laser Scan, Odometry 등 패키지 활용에 필요한 각종 데이터 Pipelining
     - 로봇에 적합한 Behavior Tree 작성 경험
 - ROS1 -> ROS2 패키지 Porting 경험
-    - [ira_laser_tools /  laserscan_multi_merger 패키지 포팅 및 활용](https://github.com/parkdg44/Platform_ROS2_ws/blob/main/workspaces/self_drive_ws/src/tools/laserscan_merger/include/laserscan_merger.hpp)
+    - [ira_laser_tools /  laserscan_multi_merger 패키지 포팅 및 활용](https://github.com/parkdg44/Platform_ROS2_ws/blob/main/workspaces/self_drive_ws/src/tools/laserscan_merger)
 
 ## 전공 관련 프로젝트 이력
 
